@@ -1,0 +1,8 @@
+C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL.Test\bin\Debug\PhotoManipulator.BLL.Test.dll
+C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL.Test\bin\Debug\PhotoManipulator.BLL.Test.pdb
+C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL.Test\bin\Debug\PhotoManipulator.BLL.dll
+C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL.Test\bin\Debug\PhotoManipulator.BLL.pdb
+C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL.Test\obj\Debug\PhotoManipulator.BLL.Test.csprojResolveAssemblyReference.cache
+C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL.Test\obj\Debug\PhotoManipulator.BLL.Test.dll
+C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL.Test\obj\Debug\PhotoManipulator.BLL.Test.pdb

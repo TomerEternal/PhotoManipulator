@@ -15,7 +15,7 @@ namespace PhotoManipulator.BLL.PixelManager
             Bitmap originalBitmap = image.Clone() as Bitmap;
             for (int x = 0; x < originalBitmap.Width; x++)
                 for (int y = 0; y < originalBitmap.Height; y++)
-                    originalBitmap.SetPixel(x, y, image.GetPixel(image.Width - x, y));
+                    originalBitmap.SetPixel(x, y, image.GetPixel(image.Width - x -1, y));
             return originalBitmap;
         }
     }
