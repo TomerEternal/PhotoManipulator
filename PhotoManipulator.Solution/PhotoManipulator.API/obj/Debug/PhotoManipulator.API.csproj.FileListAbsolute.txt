@@ -23,6 +23,5 @@ C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Net.Http.Formatting.xml
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Http.xml
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Http.WebHost.xml
-C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\obj\Debug\PhotoManipulator.API.csprojResolveAssemblyReference.cache
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\obj\Debug\PhotoManipulator.API.dll
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\obj\Debug\PhotoManipulator.API.pdb

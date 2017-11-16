@@ -1,5 +1,4 @@
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL\bin\Debug\PhotoManipulator.BLL.dll
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL\bin\Debug\PhotoManipulator.BLL.pdb
-C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL\obj\Debug\PhotoManipulator.BLL.csprojResolveAssemblyReference.cache
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL\obj\Debug\PhotoManipulator.BLL.dll
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.BLL\obj\Debug\PhotoManipulator.BLL.pdb
