@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'my-app',
-  template: `<h1>Hello {{name}}</h1>`,
+  selector: 'manipulation-form-component',
+  templateUrl: `./manipulation-form.html`,
 })
-export class AppComponent  { name = 'Angular'; }
+export class ManipulationFormComponent  { name = 'Angular'; }

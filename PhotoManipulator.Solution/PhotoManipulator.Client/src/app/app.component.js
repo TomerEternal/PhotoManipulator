@@ -14,8 +14,8 @@ var AppComponent = (function () {
 }());
 AppComponent = __decorate([
     core_1.Component({
-        selector: 'my-app',
-        template: "<h1>{{name}}</h1>",
+        selector: 'manipulation-app',
+        templateUrl: "./app.component.html",
     })
 ], AppComponent);
 exports.AppComponent = AppComponent;

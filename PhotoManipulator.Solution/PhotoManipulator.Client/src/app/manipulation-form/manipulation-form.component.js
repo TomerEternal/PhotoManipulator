@@ -6,17 +6,17 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 var core_1 = require("@angular/core");
-var AppComponent = (function () {
-    function AppComponent() {
+var ManipulationFormComponent = (function () {
+    function ManipulationFormComponent() {
         this.name = 'Angular';
     }
-    return AppComponent;
+    return ManipulationFormComponent;
 }());
-AppComponent = __decorate([
+ManipulationFormComponent = __decorate([
     core_1.Component({
-        selector: 'my-app',
-        template: "<h1>Hello {{name}}</h1>",
+        selector: 'manipulation-form-component',
+        templateUrl: "./manipulation-form.html",
     })
-], AppComponent);
-exports.AppComponent = AppComponent;
+], ManipulationFormComponent);
+exports.ManipulationFormComponent = ManipulationFormComponent;
 //# sourceMappingURL=manipulation-form.component.js.map

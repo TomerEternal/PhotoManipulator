@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'my-app',
-  template: `<h1>{{name}}</h1>`,
+  selector: 'manipulation-app',
+    templateUrl: `./app.component.html`,
 })
 export class AppComponent  { name = 'Photo manipulator'; }
