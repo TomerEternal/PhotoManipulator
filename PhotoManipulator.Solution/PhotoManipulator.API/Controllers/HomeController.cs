@@ -12,7 +12,7 @@ namespace PhotoManipulator.API.Controllers
         // GET: api/Home
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "value2", "value3" };
         }
 
         // GET: api/Home/5
