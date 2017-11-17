@@ -1,0 +1,8 @@
+﻿<form>
+    <h2>choose image</h2>
+    <input #fileInput type="file" name="file" accept="image/png">
+    <h2>choose effect</h2>
+    <input #mirrorRadio type="radio" value="mirror"> mirror
+    <br>
+    <input type="button" (click)="submit()" value="submit">
+</form>

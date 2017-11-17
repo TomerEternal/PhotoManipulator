@@ -12,13 +12,12 @@ namespace PhotoManipulator.BLL.Test
         public void ReverseImageTest()
         {
             //Arrange
-            BLL.PixelManager.PixelManager pixelManager = new BLL.PixelManager.PixelManager();
             Bitmap image = new Bitmap(Image.FromFile($@"..\..\MockImages\Car.jpeg"));
             Color originalPixel;
             Color newPixel;
 
             //Act
-            Bitmap manipulated = new Bitmap(pixelManager.ReverseImage(image));
+            Bitmap manipulated = new Bitmap(BLL.PixelManager.PixelManager.ReverseImage(image));
             originalPixel = image.GetPixel(0, 0);
             newPixel = manipulated.GetPixel(manipulated.Width-1, 0);
 
@@ -28,8 +27,6 @@ namespace PhotoManipulator.BLL.Test
 
             //Assert
             Assert.IsTrue(originalPixel.Equals(newPixel));
-
-
         }
     }
 }

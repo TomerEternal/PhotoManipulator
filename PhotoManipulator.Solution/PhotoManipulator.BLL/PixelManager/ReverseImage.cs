@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace PhotoManipulator.BLL.PixelManager
 {
-    public partial class PixelManager
+    public static partial class PixelManager
     {
-        public Image ReverseImage(Bitmap image)
+        public static Image ReverseImage(Bitmap image)
         {
             Bitmap originalBitmap = image.Clone() as Bitmap;
             for (int x = 0; x < originalBitmap.Width; x++)

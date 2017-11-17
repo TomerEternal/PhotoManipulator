@@ -1,6 +1,19 @@
-﻿<form>
-    <div>
-        <input ng-model="fileInput" type="file" placeholder="Upload file..." />
-        <button type="button" (click)="upload()">Upload</button>
-    </div>
-</form>
+﻿<div class="container">
+        <form>
+
+        <div class="form-group">
+            <label for="fileInput">Choose file</label>
+            <input #fileInput id="fileInput" type="file" name="file" accept="image/png">
+        </div>
+
+        <div class="form-group">
+            <label for="effect">Image effect</label>
+            <select class="form-control" id="effect" required [(ngModel)]="model.effect" name="effect">
+                <option *ngFor="let effect of effects" [value]="effect">{{effect}}</option>
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-success" (click)="submitForm()">Submit</button>
+
+    </form>
+</div>
