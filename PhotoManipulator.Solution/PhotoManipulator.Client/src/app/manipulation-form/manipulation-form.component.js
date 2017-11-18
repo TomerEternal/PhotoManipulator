@@ -12,25 +12,31 @@ var core_1 = require("@angular/core");
 var imageformmodel_1 = require("../shared/models/imageformmodel");
 var ManipulationFormComponent = (function () {
     function ManipulationFormComponent() {
-        this.effects = ['Reverse'];
+        this.effectKeyValueArray = [
+            ["Reverse", "Reverse"],
+            ["Black and white", "BlackAndWhite"]
+        ];
+        this.effects = new Map(this.effectKeyValueArray);
+        this.test = this.effectKeyValueArray[0];
         this.model = new imageformmodel_1.ImageFormModel(null, null);
-        this.submitted = false;
     }
-    ManipulationFormComponent.prototype.onSubmit = function () {
-        this.submitted = true;
-    };
     ManipulationFormComponent.prototype.submitForm = function () {
         this.model.image = this.fileInput.nativeElement.files[0];
         this.upload(this.model);
     };
     ManipulationFormComponent.prototype.upload = function (imageFormModel) {
+        var _this = this;
         var formData = new FormData();
         formData.append('image', imageFormModel.image, imageFormModel.image.name);
-        formData.append('effect', imageFormModel.effect);
+        formData.append('effect', this.effects.get(imageFormModel.effect));
+        var good = this.effects.get(imageFormModel.effect);
         var xhr = new XMLHttpRequest();
-        xhr.upload.addEventListener('progress', function (ev) {
-            //You can handle progress events here if you want to track upload progress (I used an observable<number> to fire back updates to whomever called this upload)
-        });
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4) {
+                var parsedResponse = JSON.parse(xhr.response);
+                _this.display.nativeElement.src = "data:" + parsedResponse.Image.Content + ";base64," + parsedResponse.Image.Content;
+            }
+        };
         xhr.open('POST', 'http://localhost:51302/api/home', true);
         xhr.setRequestHeader('enctype', 'multipart/form-data');
         xhr.send(formData);
@@ -41,6 +47,10 @@ __decorate([
     core_1.ViewChild('fileInput'),
     __metadata("design:type", core_1.ElementRef)
 ], ManipulationFormComponent.prototype, "fileInput", void 0);
+__decorate([
+    core_1.ViewChild('display'),
+    __metadata("design:type", core_1.ElementRef)
+], ManipulationFormComponent.prototype, "display", void 0);
 ManipulationFormComponent = __decorate([
     core_1.Component({
         selector: 'manipulation-form-component',

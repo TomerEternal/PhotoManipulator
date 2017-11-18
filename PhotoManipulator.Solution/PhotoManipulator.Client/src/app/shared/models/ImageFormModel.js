@@ -7,4 +7,4 @@ var ImageFormModel = (function () {
     return ImageFormModel;
 }());
 exports.ImageFormModel = ImageFormModel;
-//# sourceMappingURL=ImageFormModel.js.map
+//# sourceMappingURL=imageformmodel.js.map

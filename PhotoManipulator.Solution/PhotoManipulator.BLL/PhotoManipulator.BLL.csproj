@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PixelManager\Aesthetic.cs" />
+    <Compile Include="PixelManager\Manipulate.cs" />
+    <Compile Include="PixelManager\BlackAndWhite.cs" />
     <Compile Include="PixelManager\ReplaceGreen.cs" />
     <Compile Include="PixelManager\ReverseImage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
