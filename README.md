@@ -9,3 +9,5 @@ So far I've implemented the following languages, frameworks and platforms:
 * CSS- partial implementation
 * Angular2
 * Restful Api- partial implementation
+
+An explaination on how to run the project is located in the file `INSTRUCTIONS.md`
