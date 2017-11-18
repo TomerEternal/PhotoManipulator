@@ -1,2 +1,2 @@
 ## Things I have to do ##
-- [ ] Make a todo list.
+- [ ] Implement server and client side validation for image requests
