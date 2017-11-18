@@ -7,5 +7,5 @@
 
 ## Server side ##
 #### To initiate the server side project follow these instructions ####
-* Open the solution located in `"PhotoManipulator.Solution/PhotoManipulator.Solution.sln"` using Visual studio 2015 or newer
+* Navigate to the file at `"PhotoManipulator.Solution/PhotoManipulator.Solution.sln"` using Visual studio 2015 or newer
 * Run the project.
