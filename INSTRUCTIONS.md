@@ -3,6 +3,7 @@
 #### To initiate the client side project follow these instructions ####
 * Make sure you have an up-to-date version of node.js (I'm personally using v6.11.2)
 * Using a terminal navigate to the `"PhotoManipulator.Solution\PhotoManipulator.Client"` folder
+* If this is the first initialization, run the command: `npm install`
 * Run the command: `npm start`
 
 ## Server side ##
