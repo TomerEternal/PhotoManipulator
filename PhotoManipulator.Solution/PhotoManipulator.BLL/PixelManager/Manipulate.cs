@@ -7,13 +7,14 @@ using System.Threading.Tasks;
 
 namespace PhotoManipulator.BLL.PixelManager
 {
-    
+
     public partial class PixelManager
     {
         public enum ManipulationEffect
         {
             BlackAndWhite,
-            Reverse
+            Reverse,
+            Aesthetic
         }
         public static void Manipulate(Bitmap bmp, ManipulationEffect manipulationEffect)
         {
@@ -24,6 +25,9 @@ namespace PhotoManipulator.BLL.PixelManager
                     break;
                 case ManipulationEffect.Reverse:
                     ReverseImage(bmp);
+                    break;
+                case ManipulationEffect.Aesthetic:
+                    Aesthetic(bmp);
                     break;
                 default:
                     break;

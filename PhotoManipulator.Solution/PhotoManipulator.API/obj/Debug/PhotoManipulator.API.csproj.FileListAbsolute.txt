@@ -32,3 +32,38 @@ C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\MultipartDataMediaFormatter.dll
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\PhotoManipulator.BLL.dll
 C:\Users\Tomer Hirshfeld\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\PhotoManipulator.BLL.pdb
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\csc.exe
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\vbc.exe
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\PhotoManipulator.API.dll.config
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\PhotoManipulator.API.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\PhotoManipulator.API.pdb
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\MultipartDataMediaFormatter.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\Newtonsoft.Json.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\PhotoManipulator.BLL.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Net.Http.Formatting.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Cors.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Http.Cors.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Http.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Http.WebHost.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\PhotoManipulator.BLL.pdb
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Http.Cors.xml
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\Newtonsoft.Json.xml
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Net.Http.Formatting.xml
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Http.xml
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\bin\System.Web.Http.WebHost.xml
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\obj\Debug\PhotoManipulator.API.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\obj\Debug\PhotoManipulator.API.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\obj\Debug\PhotoManipulator.API.dll
+C:\Users\TEMP.STDDOM.000\Source\Repos\PhotoManipulator\PhotoManipulator.Solution\PhotoManipulator.API\obj\Debug\PhotoManipulator.API.pdb
